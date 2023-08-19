@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar a{
+    display: inline-block;
+    padding-right: 10px;
+    color: aqua;
+}
+.navbar {
+    text-align: right;
+    padding: 50px;
+    background-color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+}
+#Home {
+    width: fit-content;
+    height: 80%;
+    border: 3px solid black;
+    margin: 20px auto;
+    padding: 80px 5px;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
+#Home img {
+    border: 3px solid black ;
+    margin: 0 5px;
+
+}
+#About {
+    padding: 50px 5px;
+}
+#work {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
